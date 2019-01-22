@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/dvncan/cron-scheduler/issues"
   },
-  "homepage": "https://github.com/dvncan/cron-scheduler#readme"
+  "homepage": "https://github.com/dvncan/cron-scheduler#readme",
+  "dependencies": {
+    "cron": "^1.6.0",
+    "node-cron": "^2.0.3"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "problemtwo",
+  "version": "1.0.0",
+  "description": "cron scheduler",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvncan/cron-scheduler.git"
+  },
+  "keywords": [
+    "cron",
+    "schedule"
+  ],
+  "author": "duncan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvncan/cron-scheduler/issues"
+  },
+  "homepage": "https://github.com/dvncan/cron-scheduler#readme"
+}

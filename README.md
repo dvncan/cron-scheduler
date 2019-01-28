@@ -9,3 +9,5 @@ Then I take the duration (difference) between the two times and output them in s
 
 Complexity for time is N. With implementing the read file functionality it would be n^2 if I looped through to read everytime I called funtion, or log(n) if I grabbed all inputs on first loop.
 complexity for space is log(n). It is not linear, however with more inputs would not grow exponentially. 
+
+To run: node cli.js (3 inputs separated by " ")

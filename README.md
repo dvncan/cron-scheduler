@@ -7,7 +7,7 @@ My program takes the input arguments and organizes them into s, m & hrs. First I
 
 Then I take the duration (difference) between the two times and output them in seconds.
 
-Complexity for time is N. With implementing the read file functionality it would be n^2 if I looped through to read everytime I called funtion, or log(n) if I grabbed all inputs on first loop.
+Complexity for time is N. With implementing the read file functionality it would be n^2 if I looped through to read everytime I called funtion, or nlog(n) if I grabbed all inputs on first loop.
 complexity for space is log(n). It is not linear, however with more inputs would not grow exponentially. 
 
 To run: node cli.js (3 inputs separated by " ")

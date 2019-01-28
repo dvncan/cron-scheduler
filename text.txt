@@ -1,7 +1,2 @@
-Seconds
-Minutes
-Hours
-0, 0, X methodRunningEveryHour
-0, X, X methodRunningEveryminute
-0, 10, X methodRunningEveryHourDelayedBy10Minutes
-0, 0, 12 methodRunningEveryDayAtNoon
+0,0,X
+0,10,X
